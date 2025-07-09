@@ -9,4 +9,5 @@ pdf2image
 pytesseract
 opencv-python
 python-multipart
+xlsxwriter
 # paddlepaddle and paddleocr if using PaddleOCR elsewhere
