@@ -8,4 +8,5 @@ Pillow
 pdf2image
 pytesseract
 opencv-python
+python-multipart
 # paddlepaddle and paddleocr if using PaddleOCR elsewhere
