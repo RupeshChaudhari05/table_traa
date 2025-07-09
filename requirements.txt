@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pdfplumber
+pandas
+apscheduler
+numpy
+Pillow
+pdf2image
+pytesseract
+opencv-python
+# paddlepaddle and paddleocr if using PaddleOCR elsewhere
